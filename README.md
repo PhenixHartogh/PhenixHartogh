@@ -1,7 +1,5 @@
 # 👋 Hi, I'm Phenix Hartogh!
 
-![Banner](https://phenixhartogh.com.au/wp-content/uploads/2025/06/download.png) <!-- Replace with your actual banner image URL -->
-
 ## 🧑‍💻 About Me
 **Pronouns** *he/him/his*
 
