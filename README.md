@@ -1,4 +1,5 @@
 # 👋 Hi, I'm Phenix Hartogh!
+<img src="https://github.com/user-attachments/assets/85902ada-a861-46e2-ab5a-b6750622eeb9" alt="Autism/Neurodiversity Symbol" width="40" length="50"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1d/ADHD_Symbol.png" alt="ADHD Symbol" width="40" length="50"> <img src="https://c.files.bbci.co.uk/39CE/production/_119089741_pride3.jpg" alt="Progressive Pride Flag" width="40" length="50"> <img src="https://www.urevolution.com/cdn/shop/articles/disability-pride-flag-urevolution-1657016981498_5b3f7d54-a356-40ac-af6b-078b24bd7f0b_1200x1200.png?v=1741585555" alt="Disability Pride Flag" width="40" length="50"> 
 
 ## 🧑‍💻 About Me
 **Pronouns** *he/him/his*
@@ -39,7 +40,7 @@ Archiving the websites of some of the most iconic and popular brands in Australi
 - **✉️ Address:** PO Box 550, Mooroolbark, VIC 3138, Australia
 - **🖨️ Fax:** +61 3 8777 2721
 
-## 💡 Fun Fact
+## 💡 Favourite Quote
 > "Equal rights for others doesn't mean less rights for you. It's not pie."  
 > — Jesse Williams
 
