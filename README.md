@@ -20,7 +20,7 @@ I'm a developer, student, business manager, and creative entrepreneur with a kna
 ## 🚀 Featured Project
 **Aussie Internet Archive**
 
-[*click here to view the project*](https://github.com/PhenixHartogh/AussieInternetArchive)
+[*click here to view the project*](https://aussieinternetarchive.com)
 
 Archiving the websites of some of the most iconic and popular brands in Australia.
 
