@@ -19,18 +19,16 @@ I'm a developer, student, business manager, and creative entrepreneur with a kna
 - **Creative Media:** Video Editing, Graphic Design
 - **Business:** Marketing, Management, Mentorship
 
-## 🚀 Featured Project
-**Aussie Internet Archive**
-
-[*click here to view the project*](https://aussieinternetarchive.com)
-
-Archiving the websites of some of the most iconic and popular brands in Australia.
+## 🚀 My Projects
+📧 [Not Another Mail Platform](namp.xyz)
+🎮 [Detention of the Damned](github.com/GatheredSpiritsStudios/UpgradedWienerEntertainment)
+📦 [Aussie Internet Archive](https://archive.org/details/@aussieinternetarchive/web-archive)
 
 ## 🌏 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phenix%20Hartogh-blue?logo=linkedin)]((https://au.linkedin.com/in/phenix-hartogh-a4b546321))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Phenix%20Hartogh-blue?logo=linkedin)](https://au.linkedin.com/in/phenix-hartogh-a4b546321)
 [![Twitter](https://img.shields.io/badge/Twitter-@PhenByte-1da1f2?logo=twitter)](https://twitter.com/PhenByte)
 [![YouTube](https://img.shields.io/badge/YouTube-Ph3n%20H-ff0000?logo=youtube)](https://www.youtube.com/@Ph3nH)
-[![Instagram](https://img.shields.io/badge/Instagram-@bunningssizzle-e4405f?logo=instagram)](https://www.instagram.com/bunningssizzle)
+[![Instagram](https://img.shields.io/badge/Instagram-@PhenByte-e4405f?logo=instagram)](https://www.instagram.com/phenbyte)
 [![Website](https://img.shields.io/badge/Website-phenixhartogh.com.au-14a800?logo=google-chrome)](https://phenixhartogh.com.au)
 [![TikTok](https://img.shields.io/badge/TikTok-@Ph3nH-000000?logo=tiktok)](https://www.tiktok.com/@ph3nh)
 [![Scratch](https://img.shields.io/badge/Scratch-PhenixHartogh-fca311?logo=scratch)](https://scratch.mit.edu/users/PhenixHartogh/)
@@ -40,7 +38,7 @@ Archiving the websites of some of the most iconic and popular brands in Australi
 ## 📫 Contact
 - **📧 Email:** team@nextvibe.com.au
 - **✉️ Address:** PO Box 550, Mooroolbark, VIC 3138, Australia
-- **🖨️ Fax:** +61 3 8777 2721
+- **🖨️ Fax:** +61 3 5910 4226
 
 ## 💡 Favourite Quote
 > "Equal rights for others doesn't mean less rights for you. It's not pie."  
